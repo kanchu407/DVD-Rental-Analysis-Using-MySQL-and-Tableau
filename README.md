@@ -27,3 +27,8 @@ the Queries answer questions like:
 - What cities have the highest renting requests?
 - Is there a season where the number of requests increases?
 - ETC...
+
+- Dashboards are as follows:
+ 
+![Dashboard 1](https://github.com/kanchu407/DVD-Rental-Analysis-Using-MySQL-and-Tableau/blob/main/Dashboard%201.jpg)
+![Dashboard 2](https://github.com/kanchu407/DVD-Rental-Analysis-Using-MySQL-and-Tableau/blob/main/Dashboard%202.jpg)
